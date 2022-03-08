@@ -1,0 +1,8 @@
+{
+  "name": "mypages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/appleft/mypages.git",
+  "author": "appleft <paprika@cc.appleft.xyz>",
+  "license": "MIT"
+}
