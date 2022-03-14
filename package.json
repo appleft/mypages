@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/appleft/mypages.git",
   "author": "appleft <paprika@cc.appleft.xyz>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23"
+  }
 }
